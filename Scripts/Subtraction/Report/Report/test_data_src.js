@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'D:\\Automation\\POC\\UFT-Git-Demo\\Scripts\\Subtraction\\Report',namePairs:[]}]};

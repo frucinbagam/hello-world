@@ -1,0 +1,1 @@
+"C:\Program Files\HP\Unified Functional Testing\bin\UFTBatchRunnerCMD.exe" -source "D:\Automation\POC\UFT-GIT-Demo\OperationsBatch.mtb"
